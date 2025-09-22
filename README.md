@@ -1,11 +1,11 @@
 # Customer Segmentation on New York City AirBnB Data
 
 ## Project Contributors
-Tsoi Kwan Ma
-Łukasz Brzoska
-Si-Tang Lin
-I Putu Agastya Harta Pratama
-Chi Phuong Dao
+* Tsoi Kwan Ma
+* Łukasz Brzoska
+* Si-Tang Lin
+* I Putu Agastya Harta Pratama
+* Chi Phuong Dao
 
 Warsaw, Poland
 2024
