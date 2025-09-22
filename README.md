@@ -1,4 +1,15 @@
 # Customer Segmentation on New York City AirBnB Data
+
+## Project Contributors
+Tsoi Kwan Ma
+Łukasz Brzoska
+Si-Tang Lin
+I Putu Agastya Harta Pratama
+Chi Phuong Dao
+
+Warsaw, Poland
+2024
+
 ## Business Problem
 With hundreds of thousands of listings available on the Airbnb platform across various locations, it is essential to understand customer preferences and segment them effectively. This is crucial for both hosts and Airbnb to maximize occupancy rates, set optimal pricing, and offer personalized experiences.
 
@@ -56,4 +67,6 @@ scikit-learn
 
 The data set can be found in the [Data](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Data) folder, and all notebooks related to our work can be found in [Notebooks](https://github.com/dpchi12/Customer_Segment_NYC_Airbnb_python/tree/main/Notebooks). 
 Besides, during the Explordinarory Data Analysis, we created an [interactive map of Airbnb in New York City](https://dpchi12.github.io/Customer_Segment_NYC_Airbnb_python/airbnb_nyc_interactive_map.html) that displays all the listings with prices above 2000. By looking at the map, we can further support our hypothesis that the majority of the most expensive listings are in Manhattan. There are also quite a few of those in Brooklyn but nevertheless, it is obvious which area has the most prestigious apartments. 
+
+
 
