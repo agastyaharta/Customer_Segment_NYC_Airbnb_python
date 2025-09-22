@@ -7,9 +7,9 @@
 * I Putu Agastya Harta Pratama
 * Chi Phuong Dao
 
-Warsaw, Poland
-
+Warsaw, Poland  
 2024
+
 
 ## Business Problem
 With hundreds of thousands of listings available on the Airbnb platform across various locations, it is essential to understand customer preferences and segment them effectively. This is crucial for both hosts and Airbnb to maximize occupancy rates, set optimal pricing, and offer personalized experiences.
